@@ -2,4 +2,4 @@
 论文复现
 
 # 已完成
--[x] ResNet
+- [x] ResNet
